@@ -1,0 +1,21 @@
+[package]
+name = "glow-effects"
+version = "0.5.0"
+edition = "2021"
+description = "A library for building effects for programmable LEDs"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/cgorski/glow-effects"
+documentation = "https://docs.rs/glow-effects"
+readme = "README.md"
+authors = ["Chris Gorski <cgorski@cgorski.org>"]
+keywords = ["led", "control", "effects"]
+categories = []
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+thiserror = "1.0"
+rand = "0.8"
+nalgebra = "0.32"
+
+

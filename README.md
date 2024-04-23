@@ -1,7 +1,6 @@
 ![Build Status](https://github.com/cgorski/glow-effects/actions/workflows/rust.yml/badge.svg?branch=main)
 
 [![Crates.io](https://img.shields.io/crates/v/glow-effects.svg)](https://crates.io/crates/glow-effects)
-`Library`
 
 # Glow Effects for Programmable LEDs
 

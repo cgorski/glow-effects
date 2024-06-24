@@ -16,6 +16,6 @@ categories = []
 [dependencies]
 thiserror = "1.0"
 rand = "0.8"
-nalgebra = "0.32"
+nalgebra = "0.33"
 
 
